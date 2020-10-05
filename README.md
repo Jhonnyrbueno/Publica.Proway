@@ -14,8 +14,11 @@ Formando tabela teórica de uma temporada de jogos:
 Iniciando:
 
 1- O programa inicia com as opções:
+
   -Aplicar resultado
+  
   -Ver tabela
+  
   -Sair do programa.
   
 2 - Aplicando a 1º opção irá direcionar ao campo para inserir o resultado.
