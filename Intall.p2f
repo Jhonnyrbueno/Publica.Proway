@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='1'>
+    <iu id='org.eclipse.egit.feature.group' name='Git integration for Eclipse' version='5.4.0.201906121030-r'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/2019-06'/>
+        <repository location='http://download.eclipse.org/releases/2019-06/201906191000'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
