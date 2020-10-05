@@ -1,5 +1,5 @@
 # Publica.Proway
-Teste Teórico do Programa de Formação de Talento Pública de Tecnologia.
+Teste Prático do Programa de Formação de Talento Pública de Tecnologia.
 
 Realiza pela Proway
 
@@ -9,7 +9,7 @@ Java JDK 8 (221)
 
 Aplicações feitas no Java Básico.
 
-Formando tabela teórica de uma temporada de jogos:
+Formando tabela prática de uma temporada de jogos:
 
 -Pode ser rodado em qualquer IDE de sua preferência:
 
