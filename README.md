@@ -2,6 +2,11 @@
 Teste Teórico do Programa de Formação de Talento Pública de Tecnologia.
 Realiza pela Proway
 
+Usado IDE Eclipse Version: 2019-06 (4.12.0)
+Java JDK 8 (221)
+
+Aplicações feitas no Java Básico.
+
 Formando tabela teórica de uma temporada de jogos:
 
 -Pode ser rodado em qualquer IDE de sua preferência:
